@@ -1,0 +1,32 @@
+#num-text {
+    display: table;
+    margin-left: auto; 
+    margin-right: auto;
+}
+
+#num-form {
+    display: table;
+    margin-left: auto; 
+    margin-right: auto;
+}
+
+#num2-form {
+    display: table;
+    margin-left: auto; 
+    margin-right: auto;
+    padding: 20px;
+}
+
+#num8-form {
+    display: table;
+    margin-left: auto; 
+    margin-right: auto;
+    padding: 20px;
+}
+
+#num16-form {
+    display: table;
+    margin-left: auto; 
+    margin-right: auto;
+    padding: 20px;
+}
